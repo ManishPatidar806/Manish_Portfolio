@@ -62,5 +62,29 @@ const Certificates = [
     title: "A Tale of Two Cities",
     image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720443301/Portfolio/Certificate/owwlt8yhiqk7ho62rgfv.png",
   },
+  
+  
+  
+  {
+    quote:
+      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    name: "Amazon",
+    title: "Pride and Prejudice",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1725105640/Portfolio/Certificate/rivl1ueziascimd53bch.jpg",
+  },
+  {
+    quote:
+      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
+    name: "HackerRank",
+    title: "Moby-Dick",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1725105660/Portfolio/Certificate/r1wcwbrthcqnjegrmddd.png",
+  },
+  {
+    quote:
+      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    name: "simplelearn",
+    title: "A Tale of Two Cities",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1725105668/Portfolio/Certificate/rtzsxtwshdzzmtjfojck.png",
+  },
  
 ];
