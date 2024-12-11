@@ -26,13 +26,7 @@ export function HeroSection() {
     Hi,<br></br>I&apos;m Manish Patidar,
   </h1>
   <p className="my-2 font-normal md:text-lg text-base text-neutral-100  min-w-9">
-    a passionate full-stack developer specializing in the MERN
-    (MongoDB, Express, React, Node.js) stack. With a strong foundation
-    in both front-end and back-end development, I excel at building
-    scalable, efficient, and user-friendly applications.My journey in
-    programming began 2 Years ago, and since then, I&apos;ve been
-    constantly learning and growing as a developer. I&apos;ve worked
-    on various projects.
+  A passionate full-stack developer with expertise in ReactJS for front-end development and Spring Boot for back-end. I specialize in creating scalable, efficient, and user-friendly applications. My journey in programming has been focused on continuous learning and growth. I have successfully worked on various projects, improving my skills in both front-end and back-end technologies, and am always eager to explore new challenges and enhance my expertise.
   </p>
   <a
     href="https://drive.google.com/file/d/1RReJobvASubJ93jON8Io3GxnOCEnpTvp/view?usp=sharing"
@@ -88,16 +82,10 @@ export function HeroSection() {
             Hi,<br></br>I&apos;m Manish Patidar,
           </h1>
           <p className="my-4 font-normal text-lg text-neutral-100  min-w-9">
-            a passionate full-stack developer specializing in the MERN (MongoDB,
-            Express, React, Node.js) stack. With a strong foundation in both
-            front-end and back-end development, I excel at building scalable,
-            efficient, and user-friendly applications.My journey in programming
-            began 2 Years ago, and since then, I&apos;ve been constantly
-            learning and growing as a developer. I&apos;ve worked on various
-            projects.
+          A passionate full-stack developer with expertise in ReactJS for front-end development and Spring Boot for back-end. I specialize in creating scalable, efficient, and user-friendly applications. My journey in programming has been focused on continuous learning and growth. I have successfully worked on various projects, improving my skills in both front-end and back-end technologies, and am always eager to explore new challenges and enhance my expertise.
           </p>
           <a
-            href="https://drive.google.com/file/d/1RReJobvASubJ93jON8Io3GxnOCEnpTvp/view?usp=sharing"
+            href="https://drive.google.com/file/d/1HG8_VmOt_rGGRv9aIPnRZ1OCphRxgt5Z/view?usp=sharing"
             target="_blank"
           >
             <button

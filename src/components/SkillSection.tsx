@@ -21,6 +21,9 @@ export const projects = [
   {
     link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439537/Portfolio/Skills/rozctvsffno6muhmbsas.png",
   },
+  {
+    link:"https://res.cloudinary.com/dps3eybtx/image/upload/v1733926346/Portfolio/Skills/wadll2bnaiwz4xekyuwr.png"
+  },
   
   {
     link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439534/Portfolio/Skills/h3ntq3jymo0mjsxn82in.png",
