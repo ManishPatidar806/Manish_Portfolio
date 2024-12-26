@@ -29,7 +29,7 @@ export function HeroSection() {
   A passionate full-stack developer with expertise in ReactJS for front-end development and Spring Boot for back-end. I specialize in creating scalable, efficient, and user-friendly applications. My journey in programming has been focused on continuous learning and growth. I have successfully worked on various projects, improving my skills in both front-end and back-end technologies, and am always eager to explore new challenges and enhance my expertise.
   </p>
   <a
-    href="https://drive.google.com/file/d/1RReJobvASubJ93jON8Io3GxnOCEnpTvp/view?usp=sharing"
+    href="https://drive.google.com/file/d/1HG8_VmOt_rGGRv9aIPnRZ1OCphRxgt5Z/view?usp=sharing"
     target="_blank"
   >
     <button
