@@ -67,6 +67,53 @@ export function ProjectSection() {
               <div className="w-full h-full  p-[4%] rounded-3xl">
                 <img
                   src={
+                    "https://res.cloudinary.com/dps3eybtx/image/upload/v1741368261/Portfolio/Projects/Screenshot_from_2025-03-07_22-47-59_fg1iat.png"
+                  }
+                  alt="Gameingzone"
+                  className="bg-cover bg-center w-full m-1 rounded-2xl"
+                />
+              </div>
+
+              <div className="w-full p-3 h-full">
+                <h1 className="text-2xl mt-5 md:text-4xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-blue-600 bg-opacity-50">
+                  GameingZone
+                </h1>
+                <div className=" p-1 m-1 text-white">
+                  <p className="text-xl font-medium">Description : </p>
+                  Gameingzone is a dedicated e-commerce website for gameing products or games.it architecture is based  on microservice architecture which is scalable and efficient
+                  .It includes all feacture of normal ecommerce website such as payment ,login ,signup, orderHistory,cartItem and many more.
+                  <br></br>
+                  <p className="text-xl font-medium">Technologies Used : </p>
+                 ReactJs ,Tailwind,Flowbite,Spring Security, Spring DataJpa ,Spring Cloud gateway,Stripe, mail Sender ,Jwt  and maymore.
+                </div>
+                <div className="flex flex-row-reverse px-5">
+                  <a
+                    href="https://gameingzone.vercel.app/"
+                    target="_blank"
+                  >
+                    <button className="p-[3px] relative flex-row-reverse">
+                      <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg" />
+                      <div className="px-8 py-2  bg-black rounded-[6px]  relative group transition duration-200 text-white hover:bg-transparent">
+                        Know More
+                      </div>
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            {/* Meaty part - Meteor effect */}
+          </BackgroundGradient>
+        </div>
+
+        {/* //! Third Project */}
+
+        <div className="px-3 md:px-10 py-10">
+          <BackgroundGradient className="bg-slate-950 rounded-3xl m-1 ">
+            <div className="flex flex-col">
+              <div className="w-full h-full  p-[4%] rounded-3xl">
+                <img
+                  src={
                     "https://res.cloudinary.com/dps3eybtx/image/upload/v1720800779/Portfolio/Projects/q838hahcn7xjb8cixwpf.png"
                   }
                   alt="Visiting"
@@ -82,10 +129,7 @@ export function ProjectSection() {
                   <p className="text-xl font-medium">Description : </p>Picture a
                   modern website dedicated to showcasing temples from around the
                   world. it offers detailed
-                  information about these places of worship. The site includes
-                  interactive maps, user reviews, and personalized profiles,
-                  making it easy and enjoyable for visitors to discover and
-                  learn about different temple destinations worldwide.
+                  information about these places of worship. 
                   <br></br>
                   <p className="text-xl font-medium">Technologies Used : </p>
                   Html,Bootstrap-5,Express-js,node-js,Mongodb.
@@ -110,8 +154,7 @@ export function ProjectSection() {
           </BackgroundGradient>
         </div>
 
-        {/* //! Third Project */}
-
+        {/* //! Fourth Project   */}
         <div className="px-3 md:px-10 py-10">
           <BackgroundGradient className="bg-slate-950 rounded-3xl m-1 ">
             <div className="flex flex-col">
@@ -159,54 +202,7 @@ export function ProjectSection() {
           </BackgroundGradient>
         </div>
 
-        {/* //! Fourth Project   */}
-
-        <div className="px-3 md:px-10 py-10">
-          <BackgroundGradient className="bg-slate-950 rounded-3xl m-1 ">
-            <div className="flex flex-col">
-              <div className="w-full h-full  p-[4%] rounded-3xl">
-                <img
-                  src={
-                    "https://res.cloudinary.com/dps3eybtx/image/upload/v1720800783/Portfolio/Projects/ybezb7hvculqhngzquyf.png"
-                  }
-                  alt="Chatter"
-                  className="bg-cover bg-center w-full m-1 rounded-3xl"
-                />
-              </div>
-
-              <div className="w-full p-3 h-full">
-                <h1 className="text-2xl mt-5 md:text-4xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-blue-800 bg-opacity-50">
-                  Chatter-Box
-                </h1>
-                <div className=" p-1 m-1 text-white">
-                  <p className="text-xl font-medium">Description : </p>
-                  Chatter-Box uses AI to understand and respond, built with
-                  React.js for user-friendly interaction. Inspired by Google
-                  Duplex, it offers advanced technology for seamless computer
-                  conversations, designed for easy use.
-                  <br></br>
-                  <p className="text-xl font-medium">Technologies Used : </p>
-                  Reactjs,Css,Google Api
-                </div>
-                <div className="flex flex-row-reverse px-5">
-                  <a
-                    href="https://github.com/ManishPatidar806/Chatter-Box"
-                    target="_blank"
-                  >
-                    <button className="p-[3px] relative flex-row-reverse">
-                      <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg" />
-                      <div className="px-8 py-2  bg-black rounded-[6px]  relative group transition duration-200 text-white hover:bg-transparent">
-                        Know More
-                      </div>
-                    </button>
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            {/* Meaty part - Meteor effect */}
-          </BackgroundGradient>
-        </div>
+     
       </div>
     </>
   );
