@@ -26,7 +26,7 @@ export function HeroSection() {
     Hi,<br></br>I&apos;m Manish Patidar,
   </h1>
   <p className="my-2 font-normal md:text-lg text-base text-neutral-100  min-w-9">
-  A passionate full-stack developer with expertise in ReactJS for front-end development and Spring Boot for back-end. I specialize in creating scalable, efficient, and user-friendly applications. My journey in programming has been focused on continuous learning and growth. I have successfully worked on various projects, improving my skills in both front-end and back-end technologies, and am always eager to explore new challenges and enhance my expertise.
+  A passionate full-stack developer with expertise in ReactJS for front-end development and Spring Boot for back-end. I specialize in creating scalable, efficient, and user-friendly applications. My journey in programming has been focused on continuous learning and growth. I have successfully worked on various projects, honing my skills in both front-end and back-end technologies, with a strong focus on microservice architecture. I am adept at building distributed systems that ensure flexibility and scalability, and I am always eager to explore new challenges and enhance my expertise.
   </p>
   <a
     href="https://drive.google.com/file/d/1fuqpXEMP6iXlLrgeX1x_pKgxt4vJh1-L/view?usp=sharing"
@@ -82,7 +82,7 @@ export function HeroSection() {
             Hi,<br></br>I&apos;m Manish Patidar,
           </h1>
           <p className="my-4 font-normal text-lg text-neutral-100  min-w-9">
-          A passionate full-stack developer with expertise in ReactJS for front-end development and Spring Boot for back-end. I specialize in creating scalable, efficient, and user-friendly applications. My journey in programming has been focused on continuous learning and growth. I have successfully worked on various projects, improving my skills in both front-end and back-end technologies, and am always eager to explore new challenges and enhance my expertise.
+          A passionate full-stack developer with expertise in ReactJS for front-end development and Spring Boot for back-end. I specialize in creating scalable, efficient, and user-friendly applications. My journey in programming has been focused on continuous learning and growth. I have successfully worked on various projects, honing my skills in both front-end and back-end technologies, with a strong focus on microservice architecture. I am adept at building distributed systems that ensure flexibility and scalability, and I am always eager to explore new challenges and enhance my expertise.
           </p>
           <a
             href="https://drive.google.com/file/d/1fuqpXEMP6iXlLrgeX1x_pKgxt4vJh1-L/view?usp=sharing"
