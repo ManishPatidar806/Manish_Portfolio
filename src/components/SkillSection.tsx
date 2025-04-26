@@ -13,65 +13,115 @@ export default function SkillSection() {
 }
 export const projects = [
   {
+    name: "Java",
     link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439534/Portfolio/Skills/h0pjip6cq0y5zcclm3o8.png",
   },
   {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439535/Portfolio/Skills/fjt3c4w44t1yk6ap5dcw.png",
-  },
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439537/Portfolio/Skills/rozctvsffno6muhmbsas.png",
-  },
-  {
-    link:"https://res.cloudinary.com/dps3eybtx/image/upload/v1733926346/Portfolio/Skills/wadll2bnaiwz4xekyuwr.png"
-  },
-  
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439534/Portfolio/Skills/h3ntq3jymo0mjsxn82in.png",
-  },
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/pgpwtm7ccdobftwrfqjz.png",
-  },
-  
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439535/Portfolio/Skills/c0hii1rnwpc8rht0e19p.png",
-  },
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439536/Portfolio/Skills/arzvmbrdvwhojz32pf6q.png",
-  },
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/refxsjalcznio3tt6hvo.png",
-  },
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439536/Portfolio/Skills/zuojdht816ozhh3gy6u8.png",
-  },
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/baollwmq0qckdrylc9o3.png",
-  },
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439536/Portfolio/Skills/wdddquypgdyi4koidsdg.png",
-  },
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439535/Portfolio/Skills/jddgfwmxgzoeexyhyvcr.png",
-  },
-  {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439534/Portfolio/Skills/xkcyi0gujo8exfa7nndy.png",
-  },
-  {
+    name: "Python",
     link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/jdyre68r97bqmysjcs50.png",
   },
   {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439536/Portfolio/Skills/fbmp8midzatzdudfkz7h.png",
+    name: "C++",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439535/Portfolio/Skills/fjt3c4w44t1yk6ap5dcw.png",
   },
   {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/c6lryt6npgiviu97fgwe.png",
+    name: "Html",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439537/Portfolio/Skills/rozctvsffno6muhmbsas.png",
   },
   {
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/cvepgbh8z9iw2nkllcmv.png",
+    name: "Css",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439534/Portfolio/Skills/h3ntq3jymo0mjsxn82in.png",
   },
   {
+    name: "JavaScript",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/pgpwtm7ccdobftwrfqjz.png",
+  },
+  {
+    name: "Bootstrap",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439535/Portfolio/Skills/c0hii1rnwpc8rht0e19p.png",
+  },
+  {
+    name: "Tailwind",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439536/Portfolio/Skills/arzvmbrdvwhojz32pf6q.png",
+  },
+  {
+    name: "React",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/refxsjalcznio3tt6hvo.png",
+  },
+  {
+    name: "NextJS",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1745644860/Portfolio/Skills/NextJS_ktzjto.png"
+
+  },
+  {
+    name: "Spring",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1745644495/Portfolio/Skills/Spring-boot_siqway.png"
+
+  },
+  {
+    name: "Spring-boot",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1745665480/Portfolio/Skills/Spring-boot1_feugqg.png"
+
+  },
+
+  {
+    name: "NodeJS",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439536/Portfolio/Skills/zuojdht816ozhh3gy6u8.png",
+  },
+  {
+    name: "Express",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439536/Portfolio/Skills/wdddquypgdyi4koidsdg.png",
+  },
+
+  {
+    name: "Hibernate",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1745644585/Portfolio/Skills/Hibernate_lwyl7f.png"
+
+  },
+  {
+    name: "MySQL",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439535/Portfolio/Skills/jddgfwmxgzoeexyhyvcr.png",
+  },
+
+
+  {
+    name: "PostgreSQL",
+    link: " https://res.cloudinary.com/dps3eybtx/image/upload/v1745664787/Portfolio/Skills/PostGrace_sdahdx.png",
+  },
+  {
+    name: "MongoDB",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439534/Portfolio/Skills/xkcyi0gujo8exfa7nndy.png",
+  },
+  {
+    name: "MicroServices",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1745665510/Portfolio/Skills/Microservice_pp1mdg.png",
+  },
+  {
+    name: "Maven",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1745665963/Portfolio/Skills/Maven_1_gt3xnd.png",
+  },
+  {
+    name: "NPM",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/baollwmq0qckdrylc9o3.png",
+  },
+  {
+    name: "Git",
     link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439535/Portfolio/Skills/apqmgctipjdp6zlcj0gj.png",
   },
   {
+    name: "vscode",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439536/Portfolio/Skills/fbmp8midzatzdudfkz7h.png",
+  },
+  // {name:"Apache",
+  //   link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/c6lryt6npgiviu97fgwe.png",
+  // },
+  {
+    name: "IntelliJ",
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/cvepgbh8z9iw2nkllcmv.png",
+  },
+
+  {
+    name: "Linux",
     link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439533/Portfolio/Skills/bzb6ddvengdlf1dr1n8q.png",
   },
 ];

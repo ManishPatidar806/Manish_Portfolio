@@ -15,11 +15,20 @@ const projectData = [
   {
     name: "GameingZone",
     description:
-      "Gameingzone is a gaming e-commerce site using scalable microservices, offering payments, login, signup, cart, order history, and more.",
+      "Gameingzone is a scalable gaming e-commerce site using microservices, offering all features of e-commerce.",
     tools: "ReactJS, Tailwind, Spring, Stripe, JWT, Mail, Flowbite, scalable architecture.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1741368261/Portfolio/Projects/Screenshot_from_2025-03-07_22-47-59_fg1iat.png",
     link: "https://thinkandselect.vercel.app/"
+  },
+  {
+    name: "ShareBox",
+    description:
+      "ShareBox is a secure file-sharing system using AES-256 encryption, combining strong backend and modern frontend for seamless transfers.",
+    tools: "NextJs,Tailwind,Spring-boot,Sql.",
+    image:
+      "https://res.cloudinary.com/dps3eybtx/image/upload/v1745666308/Portfolio/Projects/Screenshot_from_2025-04-26_12-00-54_kpaq9d.png",
+    link: "https://github.com/ManishPatidar806/ShareBox"
   },
   {
     name: "Visiting-Place",
@@ -34,7 +43,7 @@ const projectData = [
     name: "Task-Fusion",
     description:
       "Task-Fusion is a task management app with a user-friendly interface, enabling users to create, update, and delete tasks efficiently.",
-    tools: "S    Php,Css,JavaScript,Sql.",
+    tools: "Php,Css,JavaScript,Sql.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1720800782/Portfolio/Projects/sc1uvfm8lvycad5rcsuc.png",
     link: "https://github.com/ManishPatidar806/Task-Fusion"
@@ -82,8 +91,8 @@ export function ProjectSection() {
                 as="p"
                 translateZ="60"
                 className="text-neutral-500 text-sm sm:text-base max-w-full mt-2 dark:text-neutral-300"
-              >
-                {project.tools}
+              > <p className="dark:text-md dark:text-green-500">TechStack:</p> {project.tools}
+
               </CardItem>
 
 

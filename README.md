@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Manish's Portfolio
 
-## Getting Started
+Welcome to my portfolio! This repository showcases my projects, skills, and experiences as a developer. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Contact](#contact)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About Me
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Hi, I'm Manish! I am a passionate software developer with a strong interest in building scalable and efficient applications. I enjoy solving complex problems and continuously learning new technologies to enhance my skill set.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Skills
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Here are some of the technologies and tools I work with:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js, Express.js ,Spring ,Spring-Boot
+- **Databases**: MySQL, MongoDB,
+- **Tools & Platforms**: Git, Docker,Maven
+- **Other Skills**: Data Structures, Algorithms, RESTful APIs, Agile Development
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Projects
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 1. **[Project Name 1](#)**
+    - **Description**: Brief description of the project.
+    - **Technologies**: List of technologies used.
+    - **Highlights**: Key features or achievements.
+
+### 2. **[Project Name 2](#)**
+    - **Description**: Brief description of the project.
+    - **Technologies**: List of technologies used.
+    - **Highlights**: Key features or achievements.
+
+### 3. **[Project Name 3](#)**
+    - **Description**: Brief description of the project.
+    - **Technologies**: List of technologies used.
+    - **Highlights**: Key features or achievements.
+
+<!-- *(Add more projects as needed.)* -->
+
+---
+
+## Contact
+
+Feel free to reach out to me for any inquiries or collaboration opportunities:
+
+- **Email**: [manishpatidar1180@gmail.com](mailto:your-email@example.com)
+- **LinkedIn**: [www.linkedin.com/in/manishpatidar806](https://linkedin.com/in/your-profile)
+- **GitHub**: [https://github.com/ManishPatidar806](https://github.com/your-username)
+- **Portfolio Website**: [https://manish-patidar.vercel.app/](https://your-website.com)
+
+---
+
+Thank you for visiting my portfolio! 😊
