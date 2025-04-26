@@ -26,7 +26,7 @@ Here are some of the technologies and tools I work with:
 - **Web Development**: HTML, CSS, React, Node.js, Express.js ,Spring ,Spring-Boot
 - **Databases**: MySQL, MongoDB,
 - **Tools & Platforms**: Git, Docker,Maven
-- **Other Skills**: Data Structures, Algorithms, RESTful APIs, Agile Development
+- **Other Skills**: Data Structures, Algorithms, RESTful APIs.
 
 ---
 
