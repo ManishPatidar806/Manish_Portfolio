@@ -70,8 +70,7 @@ export const projects = [
   },
   {
     name: "Express",
-    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720439536/Portfolio/Skills/wdddquypgdyi4koidsdg.png",
-  },
+    link: "https://res.cloudinary.com/dps3eybtx/image/upload/v1745644522/Portfolio/Skills/wdddquypgdyi4koidsdg_h74ebz.png",},
 
   {
     name: "Hibernate",
