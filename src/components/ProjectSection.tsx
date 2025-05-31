@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
+import { link } from "fs";
 
 const projectData = [
   {
@@ -10,7 +11,17 @@ const projectData = [
     tools: "Spring Boot, React.js, Tailwind CSS, and MySQL.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1733925661/Portfolio/Projects/imfrwlhjtl6nkqbxx17q.png",
-    link: "https://thinkandselect.vercel.app/"
+    link: "https://thinkandselect.vercel.app/",
+    sourceLink:"https://github.com/ManishPatidar806/ThinkAndSelect"
+  },
+  {
+    name: "Tijori",
+    description:
+      "Tijor is an expense tracker mobile application that helps manage monthly expenses and generates a report at the end of the month.",
+    tools: "Flutter,Spring Boot and MySQL.",
+    image:
+      "https://res.cloudinary.com/dps3eybtx/image/upload/v1748719655/Portfolio/Projects/Screenshot_from_2025-06-01_00-56-26_px7dck.png",
+    sourceLink:"https://github.com/ManishPatidar806/Tijori"
   },
   {
     name: "GameingZone",
@@ -19,7 +30,8 @@ const projectData = [
     tools: "ReactJS, Tailwind, Spring, Stripe, JWT, Mail, Flowbite, scalable architecture.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1741368261/Portfolio/Projects/Screenshot_from_2025-03-07_22-47-59_fg1iat.png",
-    link: "https://thinkandselect.vercel.app/"
+    link: "https://gameingzone.vercel.app/",
+    sourceLink:"https://github.com/ManishPatidar806/GameingZone_MicroService"
   },
   {
     name: "ShareBox",
@@ -28,7 +40,7 @@ const projectData = [
     tools: "NextJs,Tailwind,Spring-boot,Sql.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1745666308/Portfolio/Projects/Screenshot_from_2025-04-26_12-00-54_kpaq9d.png",
-    link: "https://github.com/ManishPatidar806/ShareBox"
+    sourceLink: "https://github.com/ManishPatidar806/ShareBox"
   },
   {
     name: "Visiting-Place",
@@ -37,7 +49,8 @@ const projectData = [
     tools: "Html,Bootstrap-5,Express-js,node-js,Mongodb.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1720800779/Portfolio/Projects/q838hahcn7xjb8cixwpf.png",
-    link: "https://visiting-place.onrender.com/"
+    link: "https://visiting-place.onrender.com/",
+    sourceLink:"https://github.com/ManishPatidar806/Visiting-Place"
   },
   {
     name: "Task-Fusion",
@@ -46,7 +59,7 @@ const projectData = [
     tools: "Php,Css,JavaScript,Sql.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1720800782/Portfolio/Projects/sc1uvfm8lvycad5rcsuc.png",
-    link: "https://github.com/ManishPatidar806/Task-Fusion"
+    sourceLink: "https://github.com/ManishPatidar806/Task-Fusion"
   },
 ];
 
@@ -97,7 +110,7 @@ export function ProjectSection() {
 
 
               <div className="flex flex-col sm:flex-row justify-between items-center mt-6 sm:mt-8">
-                <CardItem
+                {project.link ? <CardItem
                   translateZ={20}
                   as="a"
                   href={project.link}
@@ -105,11 +118,11 @@ export function ProjectSection() {
                   className="px-4 py-2 mb-2 sm:mb-0 sm:mr-2 rounded-xl text-xs sm:text-sm font-normal dark:text-white border border-neutral-300 dark:border-neutral-600"
                 >
                   Try now →
-                </CardItem>
+                </CardItem> : ""}
                 <CardItem
                   translateZ={20}
                   as="a"
-                  href={project.link}
+                  href={project.sourceLink}
                   className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs sm:text-sm font-bold"
                 >
                   Source-Code

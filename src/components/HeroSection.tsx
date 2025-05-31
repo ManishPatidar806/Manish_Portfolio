@@ -29,7 +29,7 @@ export function HeroSection() {
   A passionate full-stack developer with expertise in ReactJS for front-end development and Spring Boot for back-end. I specialize in creating scalable, efficient, and user-friendly applications. My journey in programming has been focused on continuous learning and growth. I have successfully worked on various projects, honing my skills in both front-end and back-end technologies, with a strong focus on microservice architecture. I am adept at building distributed systems that ensure flexibility and scalability, and I am always eager to explore new challenges and enhance my expertise.
   </p>
   <a
-    href="https://drive.google.com/file/d/1fuqpXEMP6iXlLrgeX1x_pKgxt4vJh1-L/view?usp=sharing"
+    href="https://drive.google.com/file/d/1EV5Bf0tsIx53mbdW3q_qyeuAR-4orf2v/view?usp=sharing"
     target="_blank"
   >
     <button
@@ -85,7 +85,7 @@ export function HeroSection() {
           A passionate full-stack developer with expertise in ReactJS for front-end development and Spring Boot for back-end. I specialize in creating scalable, efficient, and user-friendly applications. My journey in programming has been focused on continuous learning and growth. I have successfully worked on various projects, honing my skills in both front-end and back-end technologies, with a strong focus on microservice architecture. I am adept at building distributed systems that ensure flexibility and scalability, and I am always eager to explore new challenges and enhance my expertise.
           </p>
           <a
-            href="https://drive.google.com/file/d/1fuqpXEMP6iXlLrgeX1x_pKgxt4vJh1-L/view?usp=sharing"
+            href="https://drive.google.com/file/d/1EV5Bf0tsIx53mbdW3q_qyeuAR-4orf2v/view?usp=sharing"
             target="_blank"
           >
             <button

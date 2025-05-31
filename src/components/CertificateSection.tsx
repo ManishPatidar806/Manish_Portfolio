@@ -13,7 +13,7 @@ export default function CertificateSection() {
 
       <InfiniteMovingCards
         items={Certificates}
-        direction="right"
+        direction="left"
         speed="slow"
       />
     </div>
@@ -36,6 +36,13 @@ const Certificates = [
     title: "A Tale of Two Cities",
     image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1735220442/Portfolio/Certificate/lmdeae3obtzawm0r3cpm.png",
   },
+    {
+    quote:
+      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    name: "Spark DSA",
+    title: "A Tale of Two Cities",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1748716360/Portfolio/Certificate/Screenshot_from_2025-05-31_23-59-56_lb50dw.png",
+  },
 
   {
     quote:
@@ -44,15 +51,14 @@ const Certificates = [
     title: "Moby-Dick",
     image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1725105660/Portfolio/Certificate/r1wcwbrthcqnjegrmddd.png",
   },
-
-  {
+   {
     quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Unstop Compitition",
-    title: "Moby-Dick",
-    image: " https://res.cloudinary.com/dps3eybtx/image/upload/v1735219375/Portfolio/Certificate/c1b0nizxswancgnmtvqz.jpg",
+      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    name: "Python Programming",
+    title: "A Tale of Two Cities",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1748716363/Portfolio/Certificate/Screenshot_from_2025-06-01_00-00-15_jaj6pw.png",
   },
-
+  // ------------------------------------------------------------------------------------
   {
     quote:
       "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
@@ -61,11 +67,11 @@ const Certificates = [
     image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720443301/Portfolio/Certificate/owwlt8yhiqk7ho62rgfv.png",
   },
 
-
+// -----------------------------Hackathon-------------------------------------------------
   {
     quote:
       "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    name: "Internal",
+    name: "Internal2024",
     title: "Pride and Prejudice",
     image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720443311/Portfolio/Certificate/ywgsxezsbxjcztb6ghar.png",
   },
@@ -76,8 +82,44 @@ const Certificates = [
     title: "Pride and Prejudice",
     image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1735220740/Portfolio/Certificate/eb77kkk2fuq7zryxtkx8.png",
   },
+ {
+    quote:
+      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    name: "Internal Hackathon IIst 2025",
+    title: "A Tale of Two Cities",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1748715736/Portfolio/Certificate/Screenshot_from_2025-05-31_23-48-55_oghmfl.png",
+  },
+  
+    {
+    quote:
+      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    name: "Moonhack Ideathon",
+    title: "A Tale of Two Cities",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1748716356/Portfolio/Certificate/Screenshot_from_2025-06-01_00-00-55_tq1ca7.png",
+  },
+  {
+    quote:
+      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    name: "MoonHack Hackathon",
+    title: "A Tale of Two Cities",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1748715399/Portfolio/Certificate/IMG_20250404_215423_cbzohl.jpg",
+  },
 
-
+  {
+    quote:
+      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    name: "Code urja",
+    title: "A Tale of Two Cities",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1748715411/Portfolio/Certificate/Manish_Patidar_xef867.png",
+  },
+  {
+    quote:
+      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    name: "Citronicks",
+    title: "A Tale of Two Cities",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1748715396/Portfolio/Certificate/IMG_20250404_215513_cutvdy.jpg",
+  },
+// -----------------------------------------
   {
     quote:
       "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
@@ -91,20 +133,6 @@ const Certificates = [
     name: "SQL Database",
     title: "A Tale of Two Cities",
     image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1735220437/Portfolio/Certificate/qpowppazpl23elqteu4b.png",
-  },
-  {
-    quote:
-      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    name: "Amazon",
-    title: "Pride and Prejudice",
-    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1725105640/Portfolio/Certificate/rivl1ueziascimd53bch.jpg",
-  },
-  {
-    quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Fortinet",
-    title: "Moby-Dick",
-    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720443306/Portfolio/Certificate/fias5kv72tbnmqawvtla.png",
   },
 
   {
@@ -132,7 +160,38 @@ const Certificates = [
     name: "Cisco-Networking",
     title: "A Tale of Two Cities",
     image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1735220427/Portfolio/Certificate/cv1k03nsvciu7kxax3dt.png",
+  },   
+
+  // ---------------------------------------- Compition----------------------------------------
+  {
+    quote:
+      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
+    name: "Naukri AICTE test",
+    title: "A Tale of Two Cities",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1748716353/Portfolio/Certificate/Screenshot_from_2025-06-01_00-02-18_wyvmgo.png",
   },
+ {
+    quote:
+      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
+    name: "Unstop Compitition",
+    title: "Moby-Dick",
+    image: " https://res.cloudinary.com/dps3eybtx/image/upload/v1735219375/Portfolio/Certificate/c1b0nizxswancgnmtvqz.jpg",
+  },
+  {
+    quote:
+      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    name: "Amazon",
+    title: "Pride and Prejudice",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1725105640/Portfolio/Certificate/rivl1ueziascimd53bch.jpg",
+  },
+  {
+    quote:
+      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
+    name: "Fortinet",
+    title: "Moby-Dick",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1720443306/Portfolio/Certificate/fias5kv72tbnmqawvtla.png",
+  },
+
 
 
 ];

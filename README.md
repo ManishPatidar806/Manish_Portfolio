@@ -32,22 +32,23 @@ Here are some of the technologies and tools I work with:
 
 ## Projects
 
-### 1. **[Project Name 1](#)**
-    - **Description**: Brief description of the project.
-    - **Technologies**: List of technologies used.
-    - **Highlights**: Key features or achievements.
+### 1. **[ThinkAndSelect](#)**
+- **Description**: ThinkandSelect is a quiz app offering practice and exam modes, certificates, notes, tutorials, and a multi-language 
+      online compile.
+- **Technologies**: Spring Boot, React.js, Tailwind CSS, and MySQL.
+    
 
-### 2. **[Project Name 2](#)**
-    - **Description**: Brief description of the project.
-    - **Technologies**: List of technologies used.
-    - **Highlights**: Key features or achievements.
+### 2. **[Tijori](#)**
+- **Description**: Tijor is an expense tracker mobile application that helps manage monthly expenses and generates a report at the end of the month.
+- **Technologies**: Flutter,Spring Boot and MySQL.
+    
 
-### 3. **[Project Name 3](#)**
-    - **Description**: Brief description of the project.
-    - **Technologies**: List of technologies used.
-    - **Highlights**: Key features or achievements.
+### 3. **[GameingZone](#)**
+- **Description**: Gameingzone is a scalable gaming e-commerce site using microservices, offering all features of e-commerce..
+- **Technologies**:ReactJS, Tailwind, Spring, Stripe, JWT, Mail, Flowbite, scalable architecture..
+    
 
-<!-- *(Add more projects as needed.)* -->
+
 
 ---
 
