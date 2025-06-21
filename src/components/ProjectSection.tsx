@@ -21,7 +21,8 @@ const projectData = [
     tools: "Flutter,Spring Boot and MySQL.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1748719655/Portfolio/Projects/Screenshot_from_2025-06-01_00-56-26_px7dck.png",
-    sourceLink:"https://github.com/ManishPatidar806/Tijori"
+    sourceLink:"https://github.com/ManishPatidar806/Tijori",
+    demo:""
   },
   {
     name: "GameingZone",
@@ -40,7 +41,8 @@ const projectData = [
     tools: "NextJs,Tailwind,Spring-boot,Sql.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1745666308/Portfolio/Projects/Screenshot_from_2025-04-26_12-00-54_kpaq9d.png",
-    sourceLink: "https://github.com/ManishPatidar806/ShareBox"
+    sourceLink: "https://github.com/ManishPatidar806/ShareBox",
+    demo:"https://youtu.be/_lgZyj-ytDU"
   },
   {
     name: "Visiting-Place",
@@ -59,7 +61,8 @@ const projectData = [
     tools: "Php,Css,JavaScript,Sql.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1720800782/Portfolio/Projects/sc1uvfm8lvycad5rcsuc.png",
-    sourceLink: "https://github.com/ManishPatidar806/Task-Fusion"
+    sourceLink: "https://github.com/ManishPatidar806/Task-Fusion",
+    demo:""
   },
 ];
 
@@ -118,7 +121,17 @@ export function ProjectSection() {
                   className="px-4 py-2 mb-2 sm:mb-0 sm:mr-2 rounded-xl text-xs sm:text-sm font-normal dark:text-white border border-neutral-300 dark:border-neutral-600"
                 >
                   Try now →
-                </CardItem> : ""}
+                </CardItem> : 
+                <CardItem
+                  translateZ={20}
+                  as="a"
+                  href={project.demo}
+                  target="__blank"
+                  className="px-4 py-2 mb-2 sm:mb-0 sm:mr-2 rounded-xl text-xs sm:text-sm font-normal dark:text-white border border-neutral-300 dark:border-neutral-600"
+                >
+                  Demo →
+                </CardItem>
+                }
                 <CardItem
                   translateZ={20}
                   as="a"
