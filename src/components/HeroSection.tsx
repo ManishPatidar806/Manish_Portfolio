@@ -117,7 +117,7 @@ export function HeroSection() {
             >
               <img
                 src={process.env.NEXT_PUBLIC_PROFILE_URL}
-                className="bg-transparent h-52 w-52  " alt="Profile_Image"
+                className="bg-transparent h-52 w-52 rounded-full " alt="Profile_Image"
               ></img>
             </motion.h1>
           </LampContainer>
