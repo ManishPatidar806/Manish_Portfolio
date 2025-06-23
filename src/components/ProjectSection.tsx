@@ -22,7 +22,7 @@ const projectData = [
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1748719655/Portfolio/Projects/Screenshot_from_2025-06-01_00-56-26_px7dck.png",
     sourceLink:"https://github.com/ManishPatidar806/Tijori",
-    demo:""
+    demo:"https://youtu.be/wlA9ZibAPj8"
   },
   {
     name: "GameingZone",
