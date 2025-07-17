@@ -68,7 +68,14 @@ const Certificates = [
   },
 
 // -----------------------------Hackathon-------------------------------------------------
-  {
+ {
+    quote:
+      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    name: "BuildFest'25 ",
+    title: "Pride and Prejudice",
+    image: "https://res.cloudinary.com/dps3eybtx/image/upload/v1752781800/Portfolio/Certificate/BuildFest_fdhx9d.png",
+  },
+   {
     quote:
       "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
     name: "Internal2024",
