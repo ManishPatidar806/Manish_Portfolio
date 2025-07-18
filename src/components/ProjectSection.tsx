@@ -28,7 +28,7 @@ const projectData = [
     name: "GameingZone",
     description:
       "Gameingzone is a scalable gaming e-commerce site using microservices, offering all features of e-commerce.",
-    tools: "ReactJS, Tailwind, Spring, Stripe, JWT, Mail, Flowbite, scalable architecture.",
+    tools: "ReactJS, Tailwind CSS, Spring, Stripe, JWT, Mail, Flowbite, scalable architecture.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1741368261/Portfolio/Projects/Screenshot_from_2025-03-07_22-47-59_fg1iat.png",
     link: "https://gameingzone.vercel.app/",
@@ -38,11 +38,21 @@ const projectData = [
     name: "ShareBox",
     description:
       "ShareBox is a secure file-sharing system using AES-256 encryption, combining strong backend and modern frontend for seamless transfers.",
-    tools: "NextJs,Tailwind,Spring-boot,Sql.",
+    tools: "NextJs,Tailwind CSS,Spring-boot,Sql.",
     image:
       "https://res.cloudinary.com/dps3eybtx/image/upload/v1745666308/Portfolio/Projects/Screenshot_from_2025-04-26_12-00-54_kpaq9d.png",
     sourceLink: "https://github.com/ManishPatidar806/ShareBox",
     demo:"https://youtu.be/_lgZyj-ytDU"
+  },
+    {
+    name: "SmartResponse",
+    description:
+      "Smart Response is a web app that uses Google’s Gemini AI to write professional email replies in various tones. It’s built with Spring Boot and React, featuring a clean, modern design.",
+    tools: "React Js, Tailwind CSS, Spring-boot, Spring Ai.",
+    image:
+      "https://res.cloudinary.com/dps3eybtx/image/upload/v1752865924/Portfolio/Projects/Screenshot_from_2025-07-02_18-16-52_phzbbp.png",
+    sourceLink: "https://github.com/ManishPatidar806/SmartResponse",
+    demo:"https://youtu.be/YMxtUCDyShw?si=_3y6MhD_kCILRp9Q"
   },
   {
     name: "Visiting-Place",
@@ -54,16 +64,7 @@ const projectData = [
     link: "https://visiting-place.onrender.com/",
     sourceLink:"https://github.com/ManishPatidar806/Visiting-Place"
   },
-  {
-    name: "Task-Fusion",
-    description:
-      "Task-Fusion is a task management app with a user-friendly interface, enabling users to create, update, and delete tasks efficiently.",
-    tools: "Php,Css,JavaScript,Sql.",
-    image:
-      "https://res.cloudinary.com/dps3eybtx/image/upload/v1720800782/Portfolio/Projects/sc1uvfm8lvycad5rcsuc.png",
-    sourceLink: "https://github.com/ManishPatidar806/Task-Fusion",
-    demo:""
-  },
+
 ];
 
 export function ProjectSection() {
